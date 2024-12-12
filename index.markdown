@@ -122,7 +122,7 @@ layout: mydefault
                 </span>
                 <!-- Dataset Link. -->
                 <span class="link-block">
-                  <a href="https://github.com/YuanDaoze/OS-Agent-Survey-test"
+                  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey"
                      class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
                       <i class="fab fa-github"></i>
