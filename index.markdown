@@ -117,7 +117,7 @@ layout: mydefault
                     <span class="icon">
                       <i class="ai ai-arxiv"></i>
                     </span>
-                    <span>Report</span>
+                    <span>Paper</span>
                   </a>
                 </span>
                 <!-- Dataset Link. -->
@@ -127,7 +127,7 @@ layout: mydefault
                     <span class="icon">
                       <i class="fab fa-github"></i>
                     </span>
-                    <span>Code</span>
+                    <span>Repertory</span>
                   </a>
                   <!-- <a href="https://github.com/infi-coder/inficoder-eval-framework"
                      class="external-link button is-normal is-rounded is-dark" target='_blank'>
