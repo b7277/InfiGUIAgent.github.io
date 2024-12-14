@@ -91,8 +91,11 @@ layout: mydefault
             for General Computing Devices Control
             </h1>
             <div class="is-size-5 publication-authors">
-              <span class="author-block">
-		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup>1,†</sup></a>, 
+	<span class="author-block">
+              <a href="#" style="text-decoration: none; color: inherit;">Xueyu Hu</sup><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #007bff;">†</sup></a>,
+        </span>
+	<span class="author-block">
+		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup><sup style="color: #6fbf73;">1,†</sup></a>, 
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong <sup>1, ‡</sup></a>, 
 	        <a href="#" style="text-decoration: none; color: blue;">Biao Yi</a> <sup>1, ‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a> <sup>1, ‡</sup><br>
@@ -105,21 +108,21 @@ layout: mydefault
 	        <a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a> <sup>1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a> <sup>6</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a> <sup>7</sup>,     
-		 <a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a> <sup>1</sup>,         
-		  <a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a> <sup>1</sup><br>         
-		  <a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a> <sup>1</sup>,       
-	          <a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a> <sup>6</sup>,      
-		  <a href="#" style="text-decoration: none; color: blue;">Liang Wang</a> <sup>4, 5</sup>,          
-		  <a href="#" style="text-decoration: none; color: blue;">Jiwei Li</a> <sup>1</sup>,       
-		  <a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a> <sup>3</sup><br>         
-		   <a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a> <sup>3</sup>,        
-	           <a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a> <sup>8</sup>,
-		   <a href="#" style="text-decoration: none; color: blue;">Keting Yin</a> <sup>1</sup>,   
-		   <a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a> <sup>1</sup><br>     
-		   <a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a> <sup>9</sup>,   
-	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
-		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
-		    <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
+		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a> <sup>1</sup>,         
+		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a> <sup>1</sup><br>         
+		<a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a> <sup>1</sup>,       
+	        <a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a> <sup>6</sup>,      
+		<a href="#" style="text-decoration: none; color: blue;">Liang Wang</a> <sup>4, 5</sup>,          
+		<a href="#" style="text-decoration: none; color: blue;">Jiwei Li</a> <sup>1</sup>,       
+		<a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a> <sup>3</sup><br>         
+		<a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a> <sup>3</sup>,        
+	        <a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a> <sup>8</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Keting Yin</a> <sup>1</sup>,   
+		<a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a> <sup>1</sup><br>     
+		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a> <sup>9</sup>,   
+	        <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
+		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
+		<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
@@ -130,8 +133,8 @@ layout: mydefault
 	        <sup>8</sup>01.ai<br>
 	        <sup>9</sup>The Hong Kong Polytechnic University 
 	        <sup>10</sup>Shanghai Jiao Tong University<br>  
-		<a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
-              </span>
+		<a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>		
+        </span>
               <br>
               <!-- <span class="author-block">
                 Main Maintainer: <a href="mailto:xxxxx">xxxxx</a>
