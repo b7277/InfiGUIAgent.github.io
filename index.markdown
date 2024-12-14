@@ -91,7 +91,7 @@ layout: mydefault
             for General Computing Devices Control
             </h1>
             <div class="is-size-5 publication-authors">
-              <span class="author-block">
+              <span class="author-block" style=" font-size:1.5rem;>
                 <b>Xueyu Hu<sup>1, †</sup>,</b> 
 	        <b>Tao Xiong<sup>1, ‡</sup>,</b> 
 	        <b>Biao Yi<sup>1, ‡</sup>,</b> 
