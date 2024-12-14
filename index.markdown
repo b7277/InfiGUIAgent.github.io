@@ -93,15 +93,14 @@ layout: mydefault
             <div class="is-size-5 publication-authors">
               <span class="author-block">
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a> <sup>1, †</sup>, 
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a> <sup>1, ‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup>1,†</sup></a>, 
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong <sup>1, ‡</sup></a>, 
 	        <a href="#" style="text-decoration: none; color: blue;">Biao Yi</a> <sup>1, ‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a> <sup>1, ‡</sup><br>
 		<a href="#" style="text-decoration: none; color: blue;">Ruixuan Xiao</a> <sup>1</sup>,      
-	        <a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a> <sup>1</sup>,    
-		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a> <sup>2</sup>,          
+	        <a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a> <sup>1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #007bff;">2</sup><sup>,     
 		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a> <sup>3</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a> <sup>4, 5</sup>,<br>       
 		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a> <sup>1</sup>,
@@ -127,7 +126,7 @@ layout: mydefault
           </div>
 	       <div class="is-size-5 publication-authors"> 
 	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University </span>
-	       <span class="author-block"><sup style="color:#ffac33;">1</sup>Fudan University </span><br>
+	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Fudan University </span><br>
 	       <span class="author-block"> 
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
