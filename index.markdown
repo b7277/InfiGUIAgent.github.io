@@ -92,6 +92,7 @@ layout: mydefault
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
+		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a> </sup><sup style="color: #6fbf73;">1</sup><sup>,<sup>, </sup>,</sup><sup style="color: #ff0000;">†</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a> <sup>1, †</sup>, 
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a> <sup>1, ‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup>1,†</sup></a>, 
