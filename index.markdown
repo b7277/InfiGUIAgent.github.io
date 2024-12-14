@@ -10,7 +10,7 @@ layout: mydefault
   <meta name="keywords" content="InfiCoder-Eval, code-generation, large-language-model, benchmark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title> OS Agents: A Survey on MLLM-based Agents<br>
-  for General Computing Devices Control</title>
+  for General Computing Devices Control123</title>
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
@@ -89,7 +89,8 @@ layout: mydefault
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control
+            <h1 class="title is-1 publication-title">OS Agents: A Survey on MLLM-based Agents<br>
+  for General Computing Devices Control456
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
