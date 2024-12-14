@@ -100,7 +100,7 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a> <sup>1, ‡</sup><br>
 		<a href="#" style="text-decoration: none; color: blue;">Ruixuan Xiao</a> <sup>1</sup>,      
 	        <a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a> <sup>1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #007bff;">2</sup><sup>,     
+		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #007bff;">2</sup>,     
 		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a> <sup>3</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a> <sup>4, 5</sup>,<br>       
 		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a> <sup>1</sup>,
