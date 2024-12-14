@@ -9,9 +9,16 @@ layout: mydefault
   <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control">
   <meta name="keywords" content="InfiCoder-Eval, code-generation, large-language-model, benchmark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> OS Agents: A Survey on MLLM-based Agents<br>
-  for General Computing Devices Control123</title>
-
+  <title> OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control</title>
+  <style>
+    .publication-title {
+      text-align: center; /* 居中对齐标题 */
+      line-height: 1.2; /* 控制两行之间的间距 */
+      max-width: 800px; /* 限制标题的最大宽度 */
+      margin: 0 auto; /* 居中整个标题容器 */
+      word-break: break-word; /* 防止单词超出宽度时导致意外换行 */
+    }
+  </style>
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
   <link rel="stylesheet" href="./static/css/bulma.min.css">
@@ -90,7 +97,7 @@ layout: mydefault
         <div class="columns is-centered">
           <div class="column has-text-centered">
             <h1 class="title is-1 publication-title">OS Agents: A Survey on MLLM-based Agents<br>
-  for General Computing Devices Control456
+  for General Computing Devices Control
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
