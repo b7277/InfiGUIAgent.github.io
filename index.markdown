@@ -100,7 +100,17 @@ layout: mydefault
 	        <b>Ziyu Zhao<sup>1</sup>, Yuhuai Li<sup>1</sup>, Shengze Xu<sup>6</sup>, Shawn Wang<sup>7</sup>, Xinchen Xu<sup>1</sup>, Shuofei Qiao<sup>1</sup></b><br>
 	        <b>Kun Kuang<sup>1</sup>, Tieyong Zeng<sup>6</sup>, Liang Wang<sup>4, 5</sup>, Jiwei Li<sup>1</sup>, Yuchen Eleanor Jiang<sup>3</sup>,</b><br>
 	        <b>Wangchunshu Zhou<sup>3</sup>, Guoyin Wang<sup>8</sup>, Keting Yin<sup>1</sup>, Zhou Zhao<sup>1</sup>,</b><br>
-	        <b>Hongxia Yang<sup>9</sup>, Fan Wu<sup>10</sup>, Shengyu Zhang<sup>1, *</sup>, Fei Wu<sup>1</sup></b>
+	        <b>Hongxia Yang<sup>9</sup>, Fan Wu<sup>10</sup>, Shengyu Zhang<sup>1, *</sup>, Fei Wu<sup>1</sup></b>,<br>
+		<sup>1</sup>Zhejiang University 
+	        <sup>2</sup>Fudan University 
+	        <sup>3</sup>OPPO AI Center<br>
+	        <sup>4</sup>University of Chinese Academy of Sciences<br>
+	        <sup>5</sup>Institute of Automation, Chinese Academy of Sciences<br>
+	        <sup>6</sup>The Chinese University of Hong Kong 
+	        <sup>7</sup>Tsinghua University 
+	        <sup>8</sup>01.ai<br>
+	        <sup>9</sup>The Hong Kong Polytechnic University 
+	        <sup>10</sup>Shanghai Jiao Tong University
               </span>
               <br>
               <!-- <span class="author-block">
