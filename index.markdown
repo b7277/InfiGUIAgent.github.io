@@ -92,7 +92,7 @@ layout: mydefault
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
-                <b>Xueyu Hu<sup>1, †</sup>,</b> 
+                <b style="color: blue;>Xueyu Hu<sup>1, †</sup>,</b> 
 	        <b>Tao Xiong<sup>1, ‡</sup>,</b> 
 	        <b>Biao Yi<sup>1, ‡</sup>,</b> 
 	        <b>Zishu Wei<sup>1, ‡</sup></b><br>
