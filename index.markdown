@@ -103,11 +103,10 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,<br>
 		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a><sup style="color: #6fbf73;">1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a><sup style="color: #a74cfe;">1</sup>,
-
-		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a> <sup>7</sup>,     
-		 <a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a> <sup>1</sup>,         
-		  <a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a> <sup>1</sup><br>         
+		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a><sup style="color: #a74cfe;">6</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a><sup style="color: #aa744c;">7</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>      
+    		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup><br>      
 		  <a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a> <sup>1</sup>,       
 	          <a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a> <sup>6</sup>,      
 		  <a href="#" style="text-decoration: none; color: blue;">Liang Wang</a> <sup>4, 5</sup>,          
@@ -130,14 +129,12 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#007bff;">4</sup>University of Chinese Academy of Sciences </span><br>
 	       <span class="author-block"><sup style="color:#ff0000;">5</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
 	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
-	       <span class="author-block"> 
-		
-	        <sup>6</sup>The Chinese University of Hong Kong 
-	        <sup>7</sup>Tsinghua University 
-	        <sup>8</sup>01.ai<br>
-	        <sup>9</sup>The Hong Kong Polytechnic University 
-	        <sup>10</sup>Shanghai Jiao Tong University<br>  
-		<a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
+	       <span class="author-block"><sup style="color:##aa744c;">7</sup>Tsinghua University </span>
+	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.ai </span><br>
+	       <span class="author-block"><sup style="color:#8fc935;">8</sup>The Hong Kong Polytechnic University </span>
+	       <span class="author-block"><sup style="color:#8fc935;">8</sup>Shanghai Jiao Tong University </span><br>
+
+	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
               </span>
               <br>
               <!-- <span class="author-block">
