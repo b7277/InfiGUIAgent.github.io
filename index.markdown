@@ -92,7 +92,7 @@ layout: mydefault
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
-		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup></a>,
+		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a> <sup>1, †</sup>, 
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a> <sup>1, ‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup>1,†</sup></a>, 
@@ -123,7 +123,7 @@ layout: mydefault
 	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
 		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
 		    <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
-		<sup>1</sup>Zhejiang University 
+		<sup style="color: #6fbf73;">1</sup><sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
 	        <sup>4</sup>University of Chinese Academy of Sciences<br>
