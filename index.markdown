@@ -120,7 +120,6 @@ layout: mydefault
 	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
 		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
 		    <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
-		      Fei Wu<sup>1</sup></b>,<br>
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
@@ -130,7 +129,8 @@ layout: mydefault
 	        <sup>7</sup>Tsinghua University 
 	        <sup>8</sup>01.ai<br>
 	        <sup>9</sup>The Hong Kong Polytechnic University 
-	        <sup>10</sup>Shanghai Jiao Tong University
+	        <sup>10</sup>Shanghai Jiao Tong University<br>  
+		<a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
               </span>
               <br>
               <!-- <span class="author-block">
