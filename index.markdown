@@ -96,11 +96,12 @@ layout: mydefault
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Biao Yi</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">‡</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">‡</sup><br>
-		<a href="#" style="text-decoration: none; color: blue;">Ruixuan Xiao</a> <sup>1</sup>,      
-	        <a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a> <sup>1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #ffac33;">2</sup>,     
-		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a> <sup>3</sup>, 
-		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a> <sup>4, 5</sup>,<br>       
+		<a href="#" style="text-decoration: none; color: blue;">Ruixuan Xiao</a><sup style="color: #6fbf73;">1</sup>,
+   		<a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a><sup style="color: #6fbf73;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #ffac33;">2</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Meiling Ta</a><sup style="color: #ed4b82;">3</sup>,  
+		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #ed4b82;">3</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,       
 		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a> <sup>1</sup>,
 	        <a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a> <sup>1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a> <sup>6</sup>,
@@ -124,7 +125,10 @@ layout: mydefault
           </div>
 	       <div class="is-size-5 publication-authors"> 
 	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University </span>
-	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Fudan University </span><br>
+	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Fudan University </span>
+	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>OPPO AI Center </span><br>
+	       <span class="author-block"><sup style="color:#007bff;">4</sup>University of Chinese Academy of Sciences </span><br>
+	       <span class="author-block"><sup style="color:#ff0000;">4</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
 	       <span class="author-block"> 
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
