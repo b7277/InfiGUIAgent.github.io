@@ -90,7 +90,7 @@ layout: mydefault
             <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">OS Agents: A Survey on MLLM-based Agents<br>
             for General Computing Devices Control
             </h1>
-            <div class="is-size-5 publication-authors" font-size:1.5rem;>
+            <div class="is-size-5 publication-authors">
               <span class="author-block" style=">
                 <b>Xueyu Hu<sup>1, †</sup>,</b> 
 	        <b>Tao Xiong<sup>1, ‡</sup>,</b> 
