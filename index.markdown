@@ -107,19 +107,19 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a><sup style="color: #aa744c;">7</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>      
     		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup><br>      
-		  <a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a> <sup>1</sup>,       
-	          <a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a> <sup>6</sup>,      
-		  <a href="#" style="text-decoration: none; color: blue;">Liang Wang</a> <sup>4, 5</sup>,          
-		  <a href="#" style="text-decoration: none; color: blue;">Jiwei Li</a> <sup>1</sup>,       
-		  <a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a> <sup>3</sup><br>         
-		   <a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a> <sup>3</sup>,        
-	           <a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a> <sup>8</sup>,
-		   <a href="#" style="text-decoration: none; color: blue;">Keting Yin</a> <sup>1</sup>,   
-		   <a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a> <sup>1</sup><br>     
-		   <a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a> <sup>9</sup>,   
-	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
-		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
-		   <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br> 
+		<a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a><sup style="color: #6fbf73;">1</sup>,  
+     		<a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a><sup style="color: #a74cfe;">6</sup>, 
+  		<a href="#" style="text-decoration: none; color: blue;">Liang Wang</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,<br>
+      		<a href="#" style="text-decoration: none; color: blue;">Jiwei L</a><sup style="color: #6fbf73;">1</sup>,  
+     		<a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a><sup style="color: #ed4b82;">3</sup>,<br> 
+      		<a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a><sup style="color: #ed4b82;">3</sup>,
+        	<a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a><sup style="color: #f1728c;">8</sup> 
+		<a href="#" style="text-decoration: none; color: blue;">Keting Yin</a><sup style="color: #6fbf73;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a><sup style="color: #6fbf73;">1</sup>,<br>
+		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yan</a><sup style="color: #ac9bae;">9</sup>,
+ 		<a href="#" style="text-decoration: none; color: blue;">Fan Wu</a><sup style="color: #516594;">10</sup>,
+ 		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">*</sup>,
+	     	<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a><sup style="color: #6fbf73;">1</sup>,<br>
 		</span>
           </div>
 	       <div class="is-size-5 publication-authors"> 
@@ -131,8 +131,8 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
 	       <span class="author-block"><sup style="color:##aa744c;">7</sup>Tsinghua University </span>
 	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.ai </span><br>
-	       <span class="author-block"><sup style="color:#8fc935;">8</sup>The Hong Kong Polytechnic University </span>
-	       <span class="author-block"><sup style="color:#8fc935;">8</sup>Shanghai Jiao Tong University </span><br>
+	       <span class="author-block"><sup style="color:#ac9bae;">9</sup>The Hong Kong Polytechnic University </span>
+	       <span class="author-block"><sup style="color:#516594;">10</sup>Shanghai Jiao Tong University </span><br>
 
 	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
 
