@@ -92,7 +92,15 @@ layout: mydefault
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
-                Xueyu Hu<sup>1</sup>
+                <b>Xueyu Hu<sup>1, †</sup>,</b> 
+	        <b>Tao Xiong<sup>1, ‡</sup>,</b> 
+	        <b>Biao Yi<sup>1, ‡</sup>,</b> 
+	        <b>Zishu Wei<sup>1, ‡</sup></b><br>
+	        <b>Ruixuan Xiao<sup>1</sup>, Yurun Chen<sup>1</sup>, Jiasheng Ye<sup>2</sup>, Meiling Tao<sup>3</sup>, Xiangxin Zhou<sup>4, 5</sup>,</b><br>
+	        <b>Ziyu Zhao<sup>1</sup>, Yuhuai Li<sup>1</sup>, Shengze Xu<sup>6</sup>, Shawn Wang<sup>7</sup>, Xinchen Xu<sup>1</sup>, Shuofei Qiao<sup>1</sup></b><br>
+	        <b>Kun Kuang<sup>1</sup>, Tieyong Zeng<sup>6</sup>, Liang Wang<sup>4, 5</sup>, Jiwei Li<sup>1</sup>, Yuchen Eleanor Jiang<sup>3</sup>,</b><br>
+	        <b>Wangchunshu Zhou<sup>3</sup>, Guoyin Wang<sup>8</sup>, Keting Yin<sup>1</sup>, Zhou Zhao<sup>1</sup>,</b><br>
+	        <b>Hongxia Yang<sup>9</sup>, Fan Wu<sup>10</sup>, Shengyu Zhang<sup>1, *</sup>, Fei Wu<sup>1</sup></b>
               </span>
               <br>
               <!-- <span class="author-block">
