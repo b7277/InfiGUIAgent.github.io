@@ -107,10 +107,20 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a> <sup>7</sup>,     
 		 <a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a> <sup>1</sup>,         
 		  <a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a> <sup>1</sup><br>         
-		      
-	        <b>Kun Kuang<sup>1</sup>, Tieyong Zeng<sup>6</sup>, Liang Wang<sup>4, 5</sup>, Jiwei Li<sup>1</sup>, Yuchen Eleanor Jiang<sup>3</sup>,</b><br>
-	        <b>Wangchunshu Zhou<sup>3</sup>, Guoyin Wang<sup>8</sup>, Keting Yin<sup>1</sup>, Zhou Zhao<sup>1</sup>,</b><br>
-	        <b>Hongxia Yang<sup>9</sup>, Fan Wu<sup>10</sup>, Shengyu Zhang<sup>1, *</sup>, Fei Wu<sup>1</sup></b>,<br>
+		  <a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a> <sup>1</sup>,       
+	          <a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a> <sup>6</sup>,      
+		  <a href="#" style="text-decoration: none; color: blue;">Liang Wang</a> <sup>4, 5</sup>,          
+		  <a href="#" style="text-decoration: none; color: blue;">Jiwei Li</a> <sup>1</sup>,       
+		  <a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a> <sup>3</sup><br>         
+		   <a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a> <sup>3</sup>,        
+	           <a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a> <sup>8</sup>,
+		   <a href="#" style="text-decoration: none; color: blue;">Keting Yin</a> <sup>1</sup>,   
+		   <a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a> <sup>1</sup><br>     
+		   <a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a> <sup>9</sup>,   
+	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
+		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
+		    <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
+		      Fei Wu<sup>1</sup></b>,<br>
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
