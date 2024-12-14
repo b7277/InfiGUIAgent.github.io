@@ -99,9 +99,8 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Ruixuan Xiao</a><sup style="color: #6fbf73;">1</sup>,
    		<a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #ffac33;">2</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Meiling Ta</a><sup style="color: #ed4b82;">3</sup>,  
-		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #ed4b82;">3</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,       
+		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a><sup style="color: #ed4b82;">3</sup>,  
+		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,<br>       
 		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a> <sup>1</sup>,
 	        <a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a> <sup>1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a> <sup>6</sup>,
