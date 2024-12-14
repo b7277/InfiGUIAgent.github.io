@@ -91,7 +91,7 @@ layout: mydefault
             for General Computing Devices Control
             </h1>
             <div class="is-size-5 publication-authors">
-	<span class="author-block">
+	    <span class="author-block">
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu<sup><sup style="color: #6fbf73;">1,†</sup></a>, 
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong <sup>1, ‡</sup></a>, 
 	        <a href="#" style="text-decoration: none; color: blue;">Biao Yi</a> <sup>1, ‡</sup>, 
@@ -131,7 +131,7 @@ layout: mydefault
 	        <sup>9</sup>The Hong Kong Polytechnic University 
 	        <sup>10</sup>Shanghai Jiao Tong University<br>  
 		<a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>		
-        </span>
+              </span>
               <br>
               <!-- <span class="author-block">
                 Main Maintainer: <a href="mailto:xxxxx">xxxxx</a>
