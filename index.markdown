@@ -125,7 +125,9 @@ layout: mydefault
 		   <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br> 
 		</span>
           </div>
-	       <div class="is-size-5 publication-authors"> <span class="author-block"> 
+	       <div class="is-size-5 publication-authors"> 
+	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University,</span>
+	       <span class="author-block"> 
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
@@ -171,7 +173,7 @@ layout: mydefault
                     <span class="icon">
                       <i class="fab fa-github"></i>
                     </span>
-                    <span>Repertory</span>
+                    <span>Repository</span>
                   </a>
                   <!-- <a href="https://github.com/infi-coder/inficoder-eval-framework"
                      class="external-link button is-normal is-rounded is-dark" target='_blank'>
