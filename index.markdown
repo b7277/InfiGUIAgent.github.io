@@ -101,8 +101,13 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a> <sup>2</sup>,          
 		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a> <sup>3</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a> <sup>4, 5</sup>,<br>       
-
-	        <b>Ziyu Zhao<sup>1</sup>, Yuhuai Li<sup>1</sup>, Shengze Xu<sup>6</sup>, Shawn Wang<sup>7</sup>, Xinchen Xu<sup>1</sup>, Shuofei Qiao<sup>1</sup></b><br>
+		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a> <sup>1</sup>,
+	        <a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a> <sup>1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a> <sup>6</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a> <sup>7</sup>,     
+		 <a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a> <sup>1</sup>,         
+		  <a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a> <sup>1</sup><br>         
+		      
 	        <b>Kun Kuang<sup>1</sup>, Tieyong Zeng<sup>6</sup>, Liang Wang<sup>4, 5</sup>, Jiwei Li<sup>1</sup>, Yuchen Eleanor Jiang<sup>3</sup>,</b><br>
 	        <b>Wangchunshu Zhou<sup>3</sup>, Guoyin Wang<sup>8</sup>, Keting Yin<sup>1</sup>, Zhou Zhao<sup>1</sup>,</b><br>
 	        <b>Hongxia Yang<sup>9</sup>, Fan Wu<sup>10</sup>, Shengyu Zhang<sup>1, *</sup>, Fei Wu<sup>1</sup></b>,<br>
