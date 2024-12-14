@@ -135,13 +135,7 @@ layout: mydefault
 	        <sup>10</sup>Shanghai Jiao Tong University<br>  
 		<a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
               </span>
-              <br>
-              <!-- <span class="author-block">
-                Main Maintainer: <a href="mailto:xxxxx">xxxxx</a>
-              </span> -->
-              <!-- <span class="author-block">
-                <a href="https://xxx.github.io/">xxxxxx</a><sup>1</sup></span>
-			        <br/> -->
+
             </div>
 
             <div class="is-size-5 publication-authors">
