@@ -122,7 +122,10 @@ layout: mydefault
 		   <a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a> <sup>9</sup>,   
 	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
 		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
-		    <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
+		   <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br> 
+		</span>
+          </div>
+	       <div class="is-size-5 publication-authors"> <span class="author-block"> 
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
