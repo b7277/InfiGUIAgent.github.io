@@ -133,9 +133,11 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.ai </span><br>
 	       <span class="author-block"><sup style="color:#8fc935;">8</sup>The Hong Kong Polytechnic University </span>
 	       <span class="author-block"><sup style="color:#8fc935;">8</sup>Shanghai Jiao Tong University </span><br>
-
+	   </div>
+	<div class="is-size-5 publication-authors">
+              <span class="author-block">
 	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
-              </span>
+
               <br>
               <!-- <span class="author-block">
                 Main Maintainer: <a href="mailto:xxxxx">xxxxx</a>
