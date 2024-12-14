@@ -197,7 +197,7 @@ layout: mydefault
     </div>
   </section>
 
-
+<!-- 
   <section class="hero teaser">
     <div class="container is-max-desktop">
       <div class="hero-body">
@@ -206,6 +206,23 @@ layout: mydefault
         </h2>
 <!--         <img src="static/images/inficoder-eval-main.png"> -->
       </div>
+    </div>
+  </section>
+-->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <!-- Abstract. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3" id='overview-of-xxx'>Overview of Survey</h2>
+          <div class="content has-text-justified" style="font-size: 1.1rem;">
+            <p>    
+	The dream to create AI assistants as capable and versatile as the fictional J.A.R.V.I.S from Iron Man has long captivated imaginations. With the evolution of (multimodal) large language models ((M)LLMs), this dream is closer to reality, as (M)LLM-based Agents operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks have significantly advanced. This paper presents a comprehensive survey of these advanced agents, designated as OS Agents. We begin by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning and grounding. We then examine methodologies for constructing OS Agents, focusing on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, we discuss current challenges and identify promising directions for future research. This survey aims to consolidate the state of OS Agents research, providing insights to guide both academic inquiry and industrial development.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Abstract. -->
     </div>
   </section>
 
