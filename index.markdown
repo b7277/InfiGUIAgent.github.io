@@ -9,7 +9,8 @@ layout: mydefault
   <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control">
   <meta name="keywords" content="InfiCoder-Eval, code-generation, large-language-model, benchmark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control</title>
+  <title> OS Agents: A Survey on MLLM-based Agents<br>
+  for General Computing Devices Control</title>
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
