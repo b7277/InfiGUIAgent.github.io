@@ -100,10 +100,11 @@ layout: mydefault
    		<a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #ffac33;">2</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a><sup style="color: #ed4b82;">3</sup>,  
-		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,<br>       
-		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a> <sup>1</sup>,
-	        <a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a> <sup>1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a> <sup>6</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,<br>
+		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a><sup style="color: #6fbf73;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a><sup style="color: #6fbf73;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a><sup style="color: #a74cfe;">1</sup>,
+
 		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a> <sup>7</sup>,     
 		 <a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a> <sup>1</sup>,         
 		  <a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a> <sup>1</sup><br>         
@@ -127,13 +128,10 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Fudan University </span>
 	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>OPPO AI Center </span><br>
 	       <span class="author-block"><sup style="color:#007bff;">4</sup>University of Chinese Academy of Sciences </span><br>
-	       <span class="author-block"><sup style="color:#ff0000;">4</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
+	       <span class="author-block"><sup style="color:#ff0000;">5</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
+	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
 	       <span class="author-block"> 
-		<sup>1</sup>Zhejiang University 
-	        <sup>2</sup>Fudan University 
-	        <sup>3</sup>OPPO AI Center<br>
-	        <sup>4</sup>University of Chinese Academy of Sciences<br>
-	        <sup>5</sup>Institute of Automation, Chinese Academy of Sciences<br>
+		
 	        <sup>6</sup>The Chinese University of Hong Kong 
 	        <sup>7</sup>Tsinghua University 
 	        <sup>8</sup>01.ai<br>
