@@ -92,7 +92,7 @@ layout: mydefault
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
-                OS Agents Survey Team
+                Xueyu Hu<sup>1</sup>
               </span>
               <br>
               <!-- <span class="author-block">
