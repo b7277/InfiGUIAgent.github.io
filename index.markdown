@@ -126,7 +126,8 @@ layout: mydefault
 		</span>
           </div>
 	       <div class="is-size-5 publication-authors"> 
-	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University,</span><br>
+	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University </span>
+	       <span class="author-block"><sup style="color:#ffac33;">1</sup>Fudan University </span><br>
 	       <span class="author-block"> 
 		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
