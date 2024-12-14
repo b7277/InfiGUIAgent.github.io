@@ -123,7 +123,7 @@ layout: mydefault
 	           <a href="#" style="text-decoration: none; color: blue;">Fan Wu</a> <sup>10</sup>,   		
 		   <a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a> <sup>1, *</sup>,     
 		    <a href="#" style="text-decoration: none; color: blue;">Fei Wu</a> <sup>1</sup><br>    
-		<sup style="color: #6fbf73;">1</sup><sup>Zhejiang University 
+		<sup>1</sup>Zhejiang University 
 	        <sup>2</sup>Fudan University 
 	        <sup>3</sup>OPPO AI Center<br>
 	        <sup>4</sup>University of Chinese Academy of Sciences<br>
