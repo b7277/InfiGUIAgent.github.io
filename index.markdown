@@ -132,11 +132,13 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#f58449;">7</sup>Tsinghua University </span>
 	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.ai </span><br>
 	       <span class="author-block"><sup style="color:#ac9bae;">9</sup>The Hong Kong Polytechnic University </span>
-	       <span class="author-block"><sup style="color:#300521;">10</sup>Shanghai Jiao Tong University </span><br>
+	       <span class="author-block"><sup style="color:#300521;">10</sup>Shanghai Jiao Tong University </span><br><br>
+	       
+	        <span class="author-block"><sup style="color: #ff0000;">†</sup>Project Lead </span>
+       		<span class="author-block"><sup style="color: #d968c0;">‡</sup>Core Contributor </span>
+       		<span class="author-block"><sup style="color: #e7510e;">*</sup>Corresponding Author </span><br>
+	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a><br>
 
-	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a><br><br>
-
-	      <span class="author-block"><sup style="color: #ff0000;">†</sup>Project Lead </span>
 
               <br>
               <!-- <span class="author-block">
@@ -205,7 +207,7 @@ layout: mydefault
       <!-- Abstract. -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3" id='overview-of-xxx'>Overview of Survey</h2>
+          <h2 class="title is-3" id='overview-of-xxx'>Abstract</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>    
 	The dream to create AI assistants as capable and versatile as the fictional J.A.R.V.I.S from Iron Man has long captivated imaginations. With the evolution of (multimodal) large language models ((M)LLMs), this dream is closer to reality, as (M)LLM-based Agents operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks have significantly advanced. This paper presents a comprehensive survey of these advanced agents, designated as OS Agents. We begin by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning and grounding. We then examine methodologies for constructing OS Agents, focusing on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, we discuss current challenges and identify promising directions for future research. This survey aims to consolidate the state of OS Agents research, providing insights to guide both academic inquiry and industrial development.
