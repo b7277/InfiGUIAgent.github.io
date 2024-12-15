@@ -134,7 +134,9 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#ac9bae;">9</sup>The Hong Kong Polytechnic University </span>
 	       <span class="author-block"><sup style="color:#300521;">10</sup>Shanghai Jiao Tong University </span><br>
 
-	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a>	 
+	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a><br><br>
+
+	      <span class="author-block"><sup style="color: #ff0000;">†</sup>Project Lead </span>
 
               <br>
               <!-- <span class="author-block">
