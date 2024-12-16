@@ -130,7 +130,7 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#ff0000;">5</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
 	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
 	       <span class="author-block"><sup style="color:#f58449;">7</sup>Tsinghua University </span>
-	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.ai </span><br>
+	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.AI </span><br>
 	       <span class="author-block"><sup style="color:#ac9bae;">9</sup>The Hong Kong Polytechnic University </span>
 	       <span class="author-block"><sup style="color:#300521;">10</sup>Shanghai Jiao Tong University </span><br><br>
 	       
