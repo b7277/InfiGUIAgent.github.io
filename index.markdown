@@ -262,10 +262,10 @@ layout: mydefault
   <footer class="footer">
     <div class="container">
       <div class="content has-text-centered">
-        <a class="icon-link" href="https://arxiv.org/abs/2404.07940">
+        <a class="icon-link" href="######">
           <i class="fas fa-file-pdf" style="color:white"></i>
         </a>
-        <a class="icon-link" href="https://github.com/infi-coder" class="external-link" disabled>
+        <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey" class="external-link" disabled>
           <i class="fab fa-github" style="color:white"></i>
         </a>
       </div>
@@ -278,7 +278,7 @@ layout: mydefault
                 Commons Attribution-ShareAlike 4.0 International License</a>.
             </p>
             <p>
-              This means you are free to borrow the <a href="https://github.com/infi-coder/infibench">source
+              This means you are free to borrow the <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey">source
                 code</a> of this website,
               we just ask that you link back to this page in the footer.
             </p>
