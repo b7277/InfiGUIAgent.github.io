@@ -158,7 +158,7 @@ layout: mydefault
               <div class="publication-links">
                 <!-- PDF Link. -->
                 <span class="link-block">
-                  <a href="https://arxiv.org/abs/2404.07940"
+                  <a href="#"
                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
                       <i class="ai ai-arxiv"></i>
