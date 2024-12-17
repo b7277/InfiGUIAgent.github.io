@@ -6,10 +6,10 @@ layout: mydefault
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control">
+  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use">
   <meta name="keywords" content="InfiCoder-Eval, code-generation, large-language-model, benchmark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control</title>
+  <title> OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</title>
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
   <link rel="stylesheet" href="./static/css/bulma.min.css">
@@ -88,7 +88,7 @@ layout: mydefault
         <div class="columns is-centered">
           <div class="column has-text-centered">
             <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">OS Agents: A Survey on MLLM-based Agents<br>
-            for General Computing Devices Control
+            for General Computing Devices Use
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
@@ -228,8 +228,10 @@ layout: mydefault
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
  		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
-		    
+	 <!--
 	This survey aims to make contributions to the research and development of OS Agents by providing readers with a comprehensive understanding of their essential capabilities, offering insights into methodologies for building OS Agents based on (M)LLMs, and highlighting the latest research trends, challenges and future in this field. Recognizing that OS Agents are still in their early stages of development, we acknowledge the rapid advancements that continue to introduce novel methodologies and applications. Through this work, we aspire to inspire further innovation, driving progress in both academic research and industrial applications of OS Agents.
+	-->
+ 	This survey aims to advance the research and development of OS Agents by providing a detailed exploration of their fundamental capabilities, methodologies for building them using (M)LLMs, and emerging trends in the field. While OS Agents are still in the early stages of growth, the rapid evolution of technology continues to introduce innovative approaches and applications. This work seeks to highlight ongoing challenges, future opportunities, and the latest developments, encouraging further research and industrial adoption. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
   
             </p>
           </div>
