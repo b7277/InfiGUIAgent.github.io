@@ -158,7 +158,7 @@ layout: mydefault
               <div class="publication-links">
                 <!-- PDF Link. -->
                 <span class="link-block">
-                  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf"
+                  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"
                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
                       <i class="ai ai-arxiv"></i>
@@ -264,7 +264,7 @@ layout: mydefault
   <footer class="footer">
     <div class="container">
       <div class="content has-text-centered">
-        <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/OS%20Agents%EF%BC%9AA%20Survey%20on%20MLLM-based%20Agents%20for%20General%20Computing%20Devices%20Control.pdf">
+        <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf">
           <i class="fas fa-file-pdf" style="color:white"></i>
         </a>
         <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey" class="external-link" disabled>
