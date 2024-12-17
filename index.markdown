@@ -201,7 +201,7 @@ layout: mydefault
     </div>
   </section>
 
-
+<!--
  <section class="section">
     <div class="container is-max-desktop">
       <!-- Abstract. -->
@@ -218,6 +218,7 @@ layout: mydefault
       <!--/ Abstract. -->
     </div>
   </section>
+-->
 
   <section class="section">
     <div class="container is-max-desktop">
