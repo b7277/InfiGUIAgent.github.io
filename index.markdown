@@ -201,16 +201,17 @@ layout: mydefault
     </div>
   </section>
 
-<!-- 
 <section class="section">
     <div class="container is-max-desktop">
-      <!-- Abstract. -->
+      <!-- . -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
+	<!-- 
           <h2 class="title is-3" id='overview-of-xxx'>Abstract</h2>
+	-->
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>    
-              Will be updated.
+		    
             </p>
           </div>
         </div>
@@ -218,7 +219,7 @@ layout: mydefault
       <!--/ Abstract. -->
     </div>
 </section>
--->
+
 
   <section class="section">
     <div class="container is-max-desktop">
