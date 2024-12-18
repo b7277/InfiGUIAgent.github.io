@@ -93,7 +93,7 @@ layout: mydefault
             <div class="is-size-5 publication-authors">
               <span class="author-block">
 	      	<span style="color: #FF0000;">
-  This paper was <span style="font-weight: bold;">rejected by arXiv</span> by so-called <span style="font-weight: bold;">"Our moderators determined that your submission does not contain sufficient original or substantive scholarly research and is not of interest to arXiv."</span>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through our <a href="#" style="text-decoration: none; color: #FF0000;">GitHub repository.</a><br><br>
+  This paper was <span style="font-weight: bold;">rejected by arXiv</span> by so-called <span style="font-weight: bold;">"Our moderators determined that your submission does not contain sufficient original or substantive scholarly research and is not of interest to arXiv."</span>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through our <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #FF0000 !important;">GitHub repository.</a><br><br>
 </span>
 
 
