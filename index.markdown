@@ -81,7 +81,6 @@ layout: mydefault
       <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/title_log_v3.jpg">
     </div>
   </div>
-
   <section class="hero">
     <div class="hero-body">
       <div class="container is-max-desktop">
@@ -90,6 +89,10 @@ layout: mydefault
             <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">OS Agents: A Survey on MLLM-based Agents<br>
             for General Computing Devices Use
             </h1>
+
+	   <span style="color: #FF0000;">This article was arbitrarily rejected by <strong>arXiv</strong>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through this GitHub repository.</span>
+		
+    
             <div class="is-size-5 publication-authors">
               <span class="author-block">
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
