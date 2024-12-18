@@ -124,7 +124,7 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a><sup style="color: #6fbf73;">1</sup>,<br>
 		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #ac9bae;">9</sup>,
  		<a href="#" style="text-decoration: none; color: blue;">Fan Wu</a><sup style="color: #300521;">10</sup>,
- 		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #e7510e;">*</sup>,
+ 		<a href="https://shengyuzhang.github.io/" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #e7510e;">*</sup>,
 	     	<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a><sup style="color: #6fbf73;">1</sup>,<br>
 		</span>
           </div>
