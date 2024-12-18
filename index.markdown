@@ -242,6 +242,29 @@ layout: mydefault
     </div>
   </section>
 
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3" id="contact">Citation</h2>
+        <div class="content has-text-justified">
+          <p>
+            If you find our repository helpful, we would appreciate it if you could cite:
+          </p>
+          <pre>
+@misc{hu2024osagents,  
+  title        = {OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use},  
+  author       = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},  
+  year         = {2024},  
+  howpublished = {\url{https://github.com/OS-Agent-Survey/OS-Agent-Survey/}},  
+}  
+          </pre>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
   
 
   <footer class="footer">
