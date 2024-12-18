@@ -92,7 +92,8 @@ layout: mydefault
     
             <div class="is-size-5 publication-authors">
               <span class="author-block">
-	      	<span style="color: #FF0000;">This article was arbitrarily rejected by <strong>arXiv</strong>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through this GitHub repository.</span><br>
+	      	<span style="color: #FF0000;">This article was arbitrarily rejected by arXiv, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through the <a href="#" style="text-decoration: none; color: #FF0000;">GitHub repository</a>.</span><br>
+	
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #d968c0;">‡</sup>, 
 		<a href="#" style="text-decoration: none; color: blue;">Biao Yi</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #d968c0;">‡</sup>,
