@@ -93,7 +93,7 @@ layout: mydefault
             <div class="is-size-5 publication-authors">
               <span class="author-block">
 	      	<span style="color: #FF0000;">
-  This paper was arbitrarily <span style="font-weight: bold;">rejected by arXiv</span>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through the GitHub repository.
+  This paper was arbitrarily <span style="font-weight: bold;">rejected by arXiv</span>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through the GitHub repository.<br><br>
 </span>
 
 	
