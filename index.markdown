@@ -93,8 +93,9 @@ layout: mydefault
             <div class="is-size-5 publication-authors">
               <span class="author-block">
 	      	<span style="color: #FF0000;">
-  This paper was arbitrarily <span style="font-weight: bold;">rejected by arXiv</span>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through the GitHub repository.<br><br>
+  This paper was <span style="font-weight: bold;">rejected by arXiv</span> so-called <span style="font-weight: bold;">"Our moderators determined that your submission does not contain sufficient original or substantive scholarly research and is not of interest to arXiv."</span>, and both appeals and resubmissions have proven ineffective. As a result, the only way to access it at the moment is through the GitHub repository.<br><br>
 </span>
+
 
 	
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
