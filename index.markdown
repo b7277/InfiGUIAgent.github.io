@@ -99,6 +99,10 @@ layout: mydefault
 </span>
 --> 
 
+❗Why is there no arXiv link for this paper?<br>
+
+This paper was **rejected by arXiv** with the justification: "Our moderators determined that your submission **does not contain sufficient original or substantive scholarly research and is not of interest to arXiv**." This reasoning appears to be **inconsistent with the content and contribution of the paper**. We attempted an **appeal**, but unfortunately, this was unsuccessful, and **no further explanation was provided**. A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our [GitHub repository](https://github.com/OS-Agent-Survey/OS-Agent-Survey). We are disappointed by the lack of transparency in arXiv’s moderation process.<br><br>
+
 	
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
                 <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #d968c0;">‡</sup>, 
