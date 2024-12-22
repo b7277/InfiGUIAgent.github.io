@@ -7,7 +7,7 @@ layout: mydefault
 <head>
   <meta charset="utf-8">
   <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use">
-  <meta name="keywords" content="InfiCoder-Eval, code-generation, large-language-model, benchmark">
+  <meta name="keywords" content="OS-Agent, GUI-Agent, computer-use, GUI, web-agent, multimodal-large-language-model, large-language-model, survey, phone-use">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title> OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</title>
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
