@@ -163,7 +163,8 @@ layout: mydefault
                   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"
                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
-                      <i class="ai ai-arxiv"></i>
+          	      <i class="fas fa-file-pdf" style="color:white"></i>
+
                     </span>
                     <span>Paper</span>
                   </a>
@@ -230,8 +231,6 @@ layout: mydefault
     </div>
   </div>
 </section>
-
-
 
 
 
