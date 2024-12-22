@@ -202,15 +202,38 @@ layout: mydefault
       </div>
     </div>
   </section>
-  
-<div class="is-size-5 publication-authors">
-	<span class="author-block">
-		<span style="color: #FF0000; font-size: 30px;">❗Why is there no arXiv link for this paper?<br></span>
-		<span style="color: #FF0000;">
-This paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: "Our moderators determined that your submission <span style="font-weight: bold;">does not contain sufficient original or substantive scholarly research and is not of interest to arXiv</span>." This reasoning appears to be <span style="font-weight: bold;">inconsistent with the content and contribution of the paper</span>. We attempted an <span style="font-weight: bold;">appeal</span>, but unfortunately, this was unsuccessful, and <span style="font-weight: bold;">no further explanation was provided</span>. A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #b20000 !important;">GitHub repository</a>. We are disappointed by the lack of transparency in arXiv’s moderation process.<br><br>
-		</span>
-	</span>
- </div>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <!-- 主标题部分 -->
+              <span style="color: #FF0000; font-size: 30px; font-weight: bold;">❗Why is there no arXiv link for this paper?</span><br>
+              <!-- 描述正文 -->
+              <span style="color: #FF0000; font-size: 16px; line-height: 1.6;">
+                This paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: 
+                "Our moderators determined that your submission <span style="font-weight: bold;">does not contain sufficient original or substantive scholarly research and is not of interest to arXiv</span>." 
+                This reasoning appears to be <span style="font-weight: bold;">inconsistent with the content and contribution of the paper</span>. We attempted an 
+                <span style="font-weight: bold;">appeal</span>, but unfortunately, this was unsuccessful, and <span style="font-weight: bold;">no further explanation was provided</span>. 
+                A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our 
+                <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #b20000 !important;">GitHub repository</a>. 
+                We are disappointed by the lack of transparency in arXiv’s moderation process.
+              </span><br><br>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
 
   <section class="section">
     <div class="container is-max-desktop">
