@@ -234,7 +234,7 @@ layout: mydefault
 
 
 
-  <section class="section">
+  <section class="section" style="margin-bottom: 50px;">
     <div class="container is-max-desktop">
       <!-- Abstract. -->
       <div class="columns is-centered has-text-centered">
