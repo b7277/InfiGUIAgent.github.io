@@ -216,7 +216,7 @@ layout: mydefault
               <span style="color: #FF0000; font-size: 30px; font-weight: bold;">❗Why is there no arXiv link for this paper?</span><br>
               <!-- 描述正文 -->
               <span style="color: #FF0000; font-size: 16px; line-height: 1.6;">
-               BBBThis paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: 
+               This paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: 
                 "Our moderators determined that your submission <span style="font-weight: bold;">does not contain sufficient original or substantive scholarly research and is not of interest to arXiv</span>." 
                 This reasoning appears to be <span style="font-weight: bold;">inconsistent with the content and contribution of the paper</span>. We attempted an 
                 <span style="font-weight: bold;">appeal</span>, but unfortunately, this was unsuccessful, and <span style="font-weight: bold;">no further explanation was provided</span>. 
@@ -244,7 +244,7 @@ layout: mydefault
             <p>
  		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
 		    
- 	DDDThis project conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
+ 	This project conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
   
             </p>
           </div>
