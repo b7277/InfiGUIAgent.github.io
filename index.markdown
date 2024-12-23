@@ -205,7 +205,7 @@ layout: mydefault
   </section>
 
 
-<section class="hero" style="margin-bottom: 0px;">
+<section class="hero" style="margin-top: 100px !important;">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <div class="columns is-centered">
@@ -216,7 +216,7 @@ layout: mydefault
               <span style="color: #FF0000; font-size: 30px; font-weight: bold;">❗Why is there no arXiv link for this paper?</span><br>
               <!-- 描述正文 -->
               <span style="color: #FF0000; font-size: 16px; line-height: 1.6;">
-                This paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: 
+                AAAThis paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: 
                 "Our moderators determined that your submission <span style="font-weight: bold;">does not contain sufficient original or substantive scholarly research and is not of interest to arXiv</span>." 
                 This reasoning appears to be <span style="font-weight: bold;">inconsistent with the content and contribution of the paper</span>. We attempted an 
                 <span style="font-weight: bold;">appeal</span>, but unfortunately, this was unsuccessful, and <span style="font-weight: bold;">no further explanation was provided</span>. 
