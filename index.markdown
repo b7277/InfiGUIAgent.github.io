@@ -205,7 +205,7 @@ layout: mydefault
   </section>
 
 
-<section class="hero" style="margin-top: 10px !important;">
+<section class="hero" style="margin-top: -30px !important;">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <div class="columns is-centered">
