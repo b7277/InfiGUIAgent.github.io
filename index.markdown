@@ -234,7 +234,7 @@ layout: mydefault
 
 
 
-  <section class="section" style="margin-bottom: 50px;">
+  <section class="section" style="margin-bottom: 20px !important;">
     <div class="container is-max-desktop">
       <!-- Abstract. -->
       <div class="columns is-centered has-text-centered">
@@ -244,7 +244,7 @@ layout: mydefault
             <p>
  		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
 		    
- 	This project conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
+ 	AAAThis project conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
   
             </p>
           </div>
