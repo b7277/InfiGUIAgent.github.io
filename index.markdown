@@ -242,9 +242,11 @@ layout: mydefault
           <h2 class="title is-3" id='overview-of-xxx'>Overview of Survey</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
- 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
+ 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/os_agent_evolutionary_tree_version_github.jpg">
 		    
  	This project conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
+  		
+    	     <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
   
             </p>
           </div>
