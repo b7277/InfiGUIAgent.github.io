@@ -169,7 +169,7 @@ layout: mydefault
                     <span>Paper</span>
                   </a>
                 </span>
-                <!-- Dataset Link. -->
+                <!-- Repo Link. -->
                 <span class="link-block">
                   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey"
                      class="external-link button is-normal is-rounded is-dark" target='_blank'>
@@ -196,6 +196,31 @@ layout: mydefault
                     <span>Twitter</span>
                   </a>
                 </span> -->
+		
+		<!-- Zhihu Link. -->
+		<span class="link-block">
+		  <a href="https://zhuanlan.zhihu.com/p/14143950360"
+		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
+		    <span class="icon">
+		      <img src="static/images/zhihu_logo_v2.png" alt="Zhihu Icon" style="width: 20px; height: 20px;"/>
+		    </span>
+		    <span>Zhihu</span>
+		  </a>
+		</span>
+
+  
+		<!-- Zhihu Link. -->
+                <span class="link-block">
+                  <a href="https://zhuanlan.zhihu.com/p/14143950360"
+                    class="external-link button is-normal is-rounded is-dark" target='_blank'>
+                    <span class="icon">
+          	      <i class="fas fa-file-pdf" style="color:white"></i>
+
+                    </span>
+                    <span>Zhihu</span>
+                  </a>
+                </span>
+  
               </div>
             </div>
           </div>
