@@ -202,7 +202,7 @@ layout: mydefault
 		  <a href="https://zhuanlan.zhihu.com/p/14143950360"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
 		    <span class="icon">
-		      <img src="static/images/zhihu_logo_website.png" alt="Zhihu Icon" style="width: 20px; height: 20px;"/>
+		      <img src="static/images/zhihu_logo_website_v2.png" alt="Zhihu Icon" style="width: 20px; height: 20px;"/>
 		    </span>
 		    <span>Zhihu</span>
 		  </a>
