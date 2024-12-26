@@ -202,24 +202,11 @@ layout: mydefault
 		  <a href="https://zhuanlan.zhihu.com/p/14143950360"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
 		    <span class="icon">
-		      <img src="static/images/zhihu_logo_v2.png" alt="Zhihu Icon" style="width: 20px; height: 20px;"/>
+		      <img src="static/images/zhihu_logo_website.png" alt="Zhihu Icon" style="width: 20px; height: 20px;"/>
 		    </span>
 		    <span>Zhihu</span>
 		  </a>
 		</span>
-
-  
-		<!-- Zhihu Link. -->
-                <span class="link-block">
-                  <a href="https://zhuanlan.zhihu.com/p/14143950360"
-                    class="external-link button is-normal is-rounded is-dark" target='_blank'>
-                    <span class="icon">
-          	      <i class="fas fa-file-pdf" style="color:white"></i>
-
-                    </span>
-                    <span>Zhihu</span>
-                  </a>
-                </span>
   
               </div>
             </div>
