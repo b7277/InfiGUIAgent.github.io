@@ -1,6 +1,6 @@
 # OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
 
-This is the repository that contains source code for the [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://yuandaoze.github.io/OS-Agent-Survey-homepage/) website.
+This is the repository that contains source code for the [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://os-agent-survey.github.io/) website.
 
 
 ```
