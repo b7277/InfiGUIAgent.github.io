@@ -244,7 +244,7 @@ layout: mydefault
                 This reasoning appears to be <span style="font-weight: bold;">inconsistent with the content and contribution of the paper</span>. We attempted an 
                 <span style="font-weight: bold;">appeal</span>, but unfortunately, this was unsuccessful, and <span style="font-weight: bold;">no further explanation was provided</span>. 
                 A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our 
-                <span style="font-weight: bold;"><a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #b20000 !important;">GitHub repository</a></span> or via <a href="https://openreview.net/forum?id=I7ODESoF6k" style="text-decoration: none; color: #b20000 !important;"><b>OpenReview Archive</b></a>
+                <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #b20000 !important;"><b>GitHub repository</b></a> or via <a href="https://openreview.net/forum?id=I7ODESoF6k" style="text-decoration: none; color: #b20000 !important;"><b>OpenReview Archive</b></a>
                 We are disappointed by the lack of transparency in arXiv’s moderation process.
               </span><br><br>
             </span>
