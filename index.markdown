@@ -207,6 +207,17 @@ layout: mydefault
 		    <span>Zhihu</span>
 		  </a>
 		</span>
+
+		<!-- openreview Link. -->
+		<span class="link-block">
+		  <a href="https://openreview.net/forum?id=I7ODESoF6k"
+		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
+		    <span class="icon">
+		      <img src="static/images/openreview_v3.jpg" alt="Zhihu Icon" style="width: 20px; height: 20px;"/>
+		    </span>
+		    <span>OpenReview</span>
+		  </a>
+		</span>
   
               </div>
             </div>
