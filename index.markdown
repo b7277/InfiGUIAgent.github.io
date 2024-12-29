@@ -304,7 +304,7 @@ layout: mydefault
         <h2 class="title is-3" id="contact">Citation</h2>
         <div class="content has-text-justified">
           <p>
-            If you find our repository helpful, we would appreciate it if you could cite:
+            Considering that the <b>current bib citation points to our repository</b>, we will <b>update it to point to the paper as soon as the preprint server is available</b>. Please stay tuned for updates. Before this, if you find our repository helpful, we would appreciate it if you could cite:
           </p>
           <pre>
 
