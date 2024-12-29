@@ -324,7 +324,7 @@ layout: mydefault
         <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf">
           <i class="fas fa-file-pdf" style="color:white"></i>
         </a>
-        <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey" class="external-link" disabled>
+        <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey">
           <i class="fab fa-github" style="color:white"></i>
         </a>
       </div>
