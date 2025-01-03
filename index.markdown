@@ -306,11 +306,15 @@ layout: mydefault
           <p>
             <span style="color: #FF0000; font-size: 18px; font-weight: bold;">❗Caution|</span> Considering that the <b>current bib citation points to our repository</b>, we will <b>update it to point to the paper as soon as the preprint server is available</b>. Please stay tuned for updates. Before this, if you find our repository helpful, we would appreciate it if you could cite:
           </p>
-          <pre><code>@misc{hu2024osagents,  
-  title        = {OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use},  
-  author       = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},  
-  year         = {2024},  
-  howpublished = {\url{https://github.com/OS-Agent-Survey/OS-Agent-Survey/}}
+          <pre><code>@article{202412.2294,
+	doi = {10.20944/preprints202412.2294.v1},
+	url = {https://doi.org/10.20944/preprints202412.2294.v1},
+	year = 2024,
+	month = {December},
+	publisher = {Preprints},
+	author = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},
+	title = {OS Agents: A Survey on MLLM-Based Agents for General Computing Devices Use},
+	journal = {Preprints}
 }</code></pre>
         </div>
       </div>
