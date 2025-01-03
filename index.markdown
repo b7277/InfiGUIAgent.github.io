@@ -304,8 +304,11 @@ layout: mydefault
         <h2 class="title is-3" id="contact">Citation</h2>
         <div class="content has-text-justified">
           <p>
+	    <!--	
             <span style="color: #FF0000; font-size: 18px; font-weight: bold;">Caution:</span> Considering that the <b>current bib citation points to our repository</b>, we will <b>update it to point to the paper as soon as the preprint server is available</b>. Please stay tuned for updates. Before this, if you find our repository helpful, we would appreciate it if you could cite:
-          </p>
+          </p> 
+          -->
+          If you find our repository helpful, we would appreciate it if you could cite:
           <pre><code>@article{202412.2294,
 	doi = {10.20944/preprints202412.2294.v1},
 	url = {https://doi.org/10.20944/preprints202412.2294.v1},
