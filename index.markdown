@@ -231,15 +231,17 @@ layout: mydefault
                 </a>
               </span>
 
-	       <span class="link-block">
-                  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"
-                    class="external-link button is-normal is-rounded is-dark" target='_blank'>
-                    <span class="icon">
-          	      <i class="fa-brands fa-x-twitter"></i>
-                    </span>
-                    <span>Twitter</span>
-                  </a>
-                </span>
+              <!-- Twitter Link. -->
+              <span class="link-block">
+                <a href="https://twitter.com/GeZhang86038849/status/1760848526592901426"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon has-text-white">
+                    <i class="fa-brands fa-x-twitter"></i>
+                      <!-- <p style="font-size:18px">🌐</p> -->
+                  </span>
+                  <span>Twitter</span>
+                </a>
+              </span>
   
               </div>
             </div>
