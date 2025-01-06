@@ -232,7 +232,6 @@ layout: mydefault
               </span>
 
               <!-- Twitter Link. -->
-		<!-- Zhihu Link. -->
 		<span class="link-block">
 		  <a href="https://x.com/OSAgentSurvey/status/1876301310179660231"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
