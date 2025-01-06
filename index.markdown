@@ -224,7 +224,7 @@ layout: mydefault
 		  <a href="https://x.com/OSAgentSurvey/status/1876301310179660231"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
 		    <span class="icon">
-		      <img src="static/images/twitter_v2.jpg" alt="X Icon" style="width: 20px; height: 20px;"/>
+		      <img src="static/images/twitter_v4.jpg" alt="X Icon" style="width: 20px; height: 20px;"/>
 		    </span>
 		    <span>Twitter</span>
 		  </a>
