@@ -233,12 +233,11 @@ layout: mydefault
 
 	       <span class="link-block">
                   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"
-                    class="external-link button is-normal is-rounded is-dark">
+                    class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
-          	      <i class="fas fa-file-pdf" style="color:white"></i>
-
+          	      <i class="fa-brands fa-x-twitter"></i>
                     </span>
-                    <span>Paper</span>
+                    <span>Twitter</span>
                   </a>
                 </span>
   
