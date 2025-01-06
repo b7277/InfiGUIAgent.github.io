@@ -251,6 +251,21 @@ layout: mydefault
     </div>
   </section>
 
+<div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- Twitter Link. -->
+              <span class="link-block">
+                <a href="https://twitter.com/GeZhang86038849/status/1760848526592901426"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon has-text-white">
+                    <i class="fa-brands fa-x-twitter"></i>
+                      <!-- <p style="font-size:18px">🌐</p> -->
+                  </span>
+                  <span>Twitter</span>
+                </a>
+              </span>
+	      </div>
+       </div>
 
 <section class="hero" style="margin-top: -40px !important;">
   <div class="hero-body">
