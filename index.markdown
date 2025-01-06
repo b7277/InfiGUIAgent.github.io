@@ -219,18 +219,6 @@ layout: mydefault
 		  </a>
 		</span>
 
-                <!-- Twitter Link. -->
-              <span class="link-block">
-                <a href="https://x.com/OSAgentSurvey/status/1876301310179660231"
-                   class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon has-text-white">
-                    <i class="fa-brands fa-x-twitter"></i>
-                      <!-- <p style="font-size:18px">🌐</p> -->
-                  </span>
-                  <span>Twitter</span>
-                </a>
-              </span>
-
               <!-- Twitter Link. -->
 		<span class="link-block">
 		  <a href="https://x.com/OSAgentSurvey/status/1876301310179660231"
