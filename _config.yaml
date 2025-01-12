@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "InfiBench: Evaluating the Question-Answering Capabilities of Code LLMs"
+title: "OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use"
 # email: anonymous@github.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website for the InfiBench benchmark
-baseurl: "/infibench" # the subpath of your site, e.g. /blog
-url: "https://infi-coder.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/os_agents_survey" # the subpath of your site, e.g. /blog
+url: "https://os-agent-survey.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: xxxxx
-github_username:  llylly
+github_username:  OS-Agent-Survey
 
 # Build settings
 # theme: minima
