@@ -78,7 +78,7 @@ layout: mydefault
 
   <div class="container">
     <div class="column has-text-centered">
-      <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/title_log_v3.jpg">
+      <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/logo.jpg">
     </div>
   </div>
   <section class="hero">
@@ -86,45 +86,26 @@ layout: mydefault
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">OS Agents: A Survey on MLLM-based Agents<br>
-            for General Computing Devices Use
+            <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection<br>
             </h1>
 
 
             <div class="is-size-5 publication-authors">
               <span class="author-block">
-	      
-		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #ff0000;">†</sup>,
-                <a href="#" style="text-decoration: none; color: blue;">Tao Xiong</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #d968c0;">‡</sup>, 
-		<a href="#" style="text-decoration: none; color: blue;">Biao Yi</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #d968c0;">‡</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #d968c0;">‡</sup><br>
-		<a href="#" style="text-decoration: none; color: blue;">Ruixuan Xiao</a><sup style="color: #6fbf73;">1</sup>,
-   		<a href="#" style="text-decoration: none; color: blue;">Yurun Chen</a><sup style="color: #6fbf73;">1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Jiasheng Ye</a><sup style="color: #ffac33;">2</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Meiling Tao</a><sup style="color: #ed4b82;">3</sup>,  
-		<a href="#" style="text-decoration: none; color: blue;">Xiangxin Zhou</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,<br>
-		<a href="#" style="text-decoration: none; color: blue;">Ziyu Zhao</a><sup style="color: #6fbf73;">1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Yuhuai Li</a><sup style="color: #6fbf73;">1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Shengze Xu</a><sup style="color: #a74cfe;">6</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Shawn Wang</a><sup style="color: #f58449;">7</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>      
-    		<a href="#" style="text-decoration: none; color: blue;">Shuofei Qiao</a><sup style="color: #6fbf73;">1</sup><br>      
-		<a href="#" style="text-decoration: none; color: blue;">Kun Kuang</a><sup style="color: #6fbf73;">1</sup>,  
-     		<a href="#" style="text-decoration: none; color: blue;">Tieyong Zeng</a><sup style="color: #a74cfe;">6</sup>, 
-  		<a href="#" style="text-decoration: none; color: blue;">Liang Wang</a><sup style="color: #007bff;">4</sup><sup>,</sup><sup style="color: #ff0000;">5</sup>,
-      		<a href="#" style="text-decoration: none; color: blue;">Jiwei Li</a><sup style="color: #6fbf73;">1</sup>,  
-     		<a href="#" style="text-decoration: none; color: blue;">Yuchen Eleanor Jiang</a><sup style="color: #ed4b82;">3</sup>,<br> 
-      		<a href="#" style="text-decoration: none; color: blue;">Wangchunshu Zhou</a><sup style="color: #ed4b82;">3</sup>,
-        	<a href="#" style="text-decoration: none; color: blue;">Guoyin Wang</a><sup style="color: #f1728c;">8</sup> 
-		<a href="#" style="text-decoration: none; color: blue;">Keting Yin</a><sup style="color: #6fbf73;">1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Zhou Zhao</a><sup style="color: #6fbf73;">1</sup>,<br>
-		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #ac9bae;">9</sup>,
- 		<a href="#" style="text-decoration: none; color: blue;">Fan Wu</a><sup style="color: #300521;">10</sup>,
- 		<a href="https://shengyuzhang.github.io/" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #6fbf73;">1</sup><sup>,</sup><sup style="color: #e7510e;">*</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Yuhang Liu</a><sup style="color: #6fbf73;">1</sup>,
+                <a href="#" style="text-decoration: none; color: blue;">Pengxiang Li</a><sup style="color: #6fbf73;">2</sup>, 
+		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a><sup style="color: #6fbf73;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Congkai Xie</a><sup style="color: #6fbf73;">3</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup>,
+   		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #ffac33;">1</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Xiaotian Han</a><sup style="color: #ed4b82;">4</sup>,  
+		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #007bff;">5</sup>,
 	     	<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a><sup style="color: #6fbf73;">1</sup>,<br>
 		</span>
           </div>
 	       <div class="is-size-5 publication-authors"> 
+	
 	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University </span>
 	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Fudan University </span>
 	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>OPPO AI Center </span><br>
