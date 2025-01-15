@@ -33,7 +33,7 @@ layout: mydefault
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css">
   <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js"></script>
 
-  <link rel="icon" href="./static/images/survey_title_log.jpeg">
+  <link rel="icon" href="./static/images/logo.jpg">
 
   <script defer src="./static/js/fontawesome.all.min.js"></script>
   <script src="./static/js/bulma-carousel.min.js"></script>
