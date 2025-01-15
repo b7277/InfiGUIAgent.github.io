@@ -134,7 +134,7 @@ layout: mydefault
               <div class="publication-links">
                 <!-- PDF Link. -->
                 <span class="link-block">
-                  <a href="https://github.com/b7277/InfiGUIAgent.github.io/paper.pdf"
+                  <a href="https://arxiv.org/abs/2501.04575"
                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
           	      <i class="fas fa-file-pdf" style="color:white"></i>
