@@ -1,7 +1,6 @@
 # InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
 
-This is the repository that contains source code for the [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://InfiGUIAgent.github.io/) website.
-
+This is the repository that contains source code for the [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://b7277.github.io/InfiGUIAgent.github.io/) website.
 
 ```
 
