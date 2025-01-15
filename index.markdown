@@ -231,6 +231,18 @@ layout: mydefault
     		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
   
             </p>
+	    <h3>Stage 1</h3>
+     	    <p>
+	  We gathered data covering several GUI tasks from multiple sources to ensure a comprehensive capabilities improvement.The datasets can be categorized into five parts:
+	  </p>
+   	    <ul>
+	     <li>GUI Understanding</li>
+	     <li>Grounding</li>
+	     <li>Question Answering</li>
+	     <li>General Knowledge</li>
+	     <li>Tool Usage</li>
+	    </ul>
+		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/dataset.png">
           </div>
         </div>
       </div>
@@ -239,6 +251,69 @@ layout: mydefault
   </section>
 
 
+<section class="section" style="margin-top: -40px !important;">
+    <div class="container is-max-desktop">
+      <!-- Stage1. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3" id='stage1'>Stage 1</h2>
+          <div class="content has-text-justified" style="font-size: 1.1rem;">
+            <p>
+	    
+  		
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
+  
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Stage1. -->
+    </div>
+  </section>
+
+
+  <section class="section" style="margin-top: -40px !important;">
+    <div class="container is-max-desktop">
+      <!-- Training. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3" id='training'>Training</h2>
+          <div class="content has-text-justified" style="font-size: 1.1rem;">
+            <p>
+	    
+  		
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
+  
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Training. -->
+    </div>
+  </section>
+
+
+  <section class="section" style="margin-top: -40px !important;">
+    <div class="container is-max-desktop">
+      <!-- Training. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3" id='training'>Training</h2>
+          <div class="content has-text-justified" style="font-size: 1.1rem;">
+            <p>
+	    
+  		
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
+  
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Training. -->
+    </div>
+  </section>
+
+  
   <section class="section">
     <div class="container is-max-desktop">
       <div class="columns is-centered has-text-centered">
