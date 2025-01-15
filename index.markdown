@@ -133,7 +133,7 @@ layout: mydefault
               <div class="publication-links">
                 <!-- PDF Link. -->
                 <span class="link-block">
-                  <a href="https://os-agent-survey.github.io/paper.pdf"
+                  <a href="https://infiguiagent.github.io/paper.pdf"
                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
           	      <i class="fas fa-file-pdf" style="color:white"></i>
