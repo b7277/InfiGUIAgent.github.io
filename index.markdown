@@ -81,6 +81,8 @@ layout: mydefault
       <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/logo.jpg">
     </div>
   </div>
+
+  
   <section class="hero">
     <div class="hero-body">
       <div class="container is-max-desktop">
@@ -88,7 +90,6 @@ layout: mydefault
           <div class="column has-text-centered">
             <h1 class="title is-1 publication-title" style=" font-size:2.3rem;">InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection<br>
             </h1>
-
 
             <div class="is-size-5 publication-authors">
               <span class="author-block">
@@ -195,48 +196,18 @@ layout: mydefault
   </section>
 
 
-<section class="hero" style="margin-top: -40px !important;">
-  <div class="hero-body">
-    <div class="container is-max-desktop">
-      <div class="columns is-centered">
-        <div class="column has-text-centered">
-          <div class="is-size-5 publication-authors">
-            <span class="author-block">
-              <!-- 主标题部分 -->
-              <span style="color: #FF0000; font-size: 30px; font-weight: bold;">❗Why is there no arXiv link for this paper?</span><br>
-              <!-- 描述正文 -->
-              <span style="color: #FF0000; font-size: 16px; line-height: 1.6;">
-               This paper was <span style="font-weight: bold;">rejected by arXiv</span> with the justification: 
-                "Our moderators determined that your submission <span style="font-weight: bold;">does not contain sufficient original or substantive scholarly research and is not of interest to arXiv</span>." 
-                This reasoning appears to be <span style="font-weight: bold;">inconsistent with the content and contribution of the paper</span>. We attempted an 
-                <span style="font-weight: bold;">appeal</span>, but unfortunately, this was unsuccessful, and <span style="font-weight: bold;">no further explanation was provided</span>. 
-                A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our 
-                <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main" style="text-decoration: none; color: #b20000 !important;"><b>GitHub Repository</b></a> or via <a href="https://openreview.net/forum?id=I7ODESoF6k" style="text-decoration: none; color: #b20000 !important;"><b>OpenReview Archive</b></a>.
-                We are disappointed by the lack of transparency in arXiv’s moderation process.
-              </span><br><br>
-            </span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
   <section class="section" style="margin-top: -40px !important;">
     <div class="container is-max-desktop">
       <!-- Abstract. -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3" id='overview-of-xxx'>Overview of Survey</h2>
+          <h2 class="title is-3" id='overview'>Overview</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
- 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/os_agent_evolutionary_tree_version_github.jpg">
-		    
- 	This project conducts a comprehensive survey on OS Agents, which are <span style="font-weight: bold;">(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks</span>. The survey begins by elucidating the fundamentals of OS Agents, exploring their key components including the environment, observation space, and action space, and outlining essential capabilities such as understanding, planning, and grounding. Methodologies for constructing OS Agents are examined, with a focus on domain-specific foundation models and agent frameworks. A detailed review of evaluation protocols and benchmarks highlights how OS Agents are assessed across diverse tasks. Finally, current challenges and promising future research directions, including safety and privacy, personalization and self-evolution, are discussed. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.<br>
+
+ 	xxx<br>
   		
-    	     <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg">
+    	     <!-- <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg"> -->
   
             </p>
           </div>
@@ -246,7 +217,26 @@ layout: mydefault
     </div>
   </section>
 
- 
+
+ <section class="section" style="margin-top: -40px !important;">
+    <div class="container is-max-desktop">
+      <!-- Training. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3" id='training'>Training</h2>
+          <div class="content has-text-justified" style="font-size: 1.1rem;">
+            <p>
+	    InfiGUIAgent is trained in two stages. <b>Stage 1</b> cultivates fundamental abilities using diverse datasets covering GUI understanding (element recognition and layout comprehension), question answering, instruction grounding, general knowledge, and tool usage. <b>Stage 2</b> introduces native advanced reasoning, employed during both training and inference. This stage follows a cyclical process at each step, consisting of Reflection, Hierarchical Reasoning (strategic and tactical layers), Action, and Expectation. Each step receives the overall task, the history of previous screenshots and reasoning, and the current environment as input. Reflection assesses the previous action’s outcome against its expectation, while Expectation predicts the outcome of the current action for subsequent reflection.
+  		
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
+  
+            </p>
+          </div>
+        </div>
+      </div>
+      <!--/ Training. -->
+    </div>
+  </section>
 
 
   <section class="section">
