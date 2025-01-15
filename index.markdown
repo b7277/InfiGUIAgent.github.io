@@ -228,7 +228,7 @@ layout: mydefault
             <p>
 	    InfiGUIAgent is trained in two stages. <b>Stage 1</b> cultivates fundamental abilities using diverse datasets covering GUI understanding (element recognition and layout comprehension), question answering, instruction grounding, general knowledge, and tool usage. <b>Stage 2</b> introduces native advanced reasoning, employed during both training and inference. This stage follows a cyclical process at each step, consisting of Reflection, Hierarchical Reasoning (strategic and tactical layers), Action, and Expectation. Each step receives the overall task, the history of previous screenshots and reasoning, and the current environment as input. Reflection assesses the previous action’s outcome against its expectation, while Expectation predicts the outcome of the current action for subsequent reflection.
   	    </p>
-    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.png">
 
 	    <h3>Stage 1: Training for Fundamental Abilities</h3>
      	    <p>
@@ -247,7 +247,7 @@ layout: mydefault
      	    <p>
 	  GUI Agents are trained to master advanced reasoning skills: (1) Hierarchical reasoning, which involves task decomposition into strategic and tactical layers for efficient execution, and (2) Expectation-reflection reasoning, enabling self-correction and consistent decision-making through iterative reflection and learning from past actions. These skills are integrated into training datasets for native reasoning. The interaction follows a standard protocol using function calls and responses:
 	  </p>
-		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/functioncall_format.pdf">
+		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/functioncall_format.png">
           </div>
         </div>
       </div>
@@ -289,17 +289,17 @@ layout: mydefault
 	    We demonstrate the fundamental abilities trained in Stage 1 through three cases: 
             </p>
 	    <ul>
-	     <li>GUI Understanding<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_understanding1.pdf"></li>
-	     <li>Grounding<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_grounding1.pdf"></li>
-	     <li>Question Answering<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_QA1.pdf"></li>
+	     <li>GUI Understanding<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_understanding1.png"></li>
+	     <li>Grounding<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_grounding1.png"></li>
+	     <li>Question Answering<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_QA1.png"></li>
 	    </ul>
 	    <h3>Stage 2:</h3>
 	    <p>
 	    Below we provide two representative cases to demonstrate the reasoning and interaction process of InfiGUIAgent: 
             </p>
 	    <ul>
-	     <li>Reply to a Message<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_3.pdf"></li>
-	     <li>Creating a New Contact<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_1.pdf"><br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_2.pdf"></li>
+	     <li>Reply to a Message<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_3.png"></li>
+	     <li>Creating a New Contact<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_1.png"><br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_2.png"></li>
 	    </ul>
           </div>
         </div>
