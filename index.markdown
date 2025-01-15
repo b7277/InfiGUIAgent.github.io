@@ -6,10 +6,10 @@ layout: mydefault
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use">
-  <meta name="keywords" content="OS-Agents, MLLM, MLLM-based, computing-devices-use, A-Survey-on-MLLM-based-Agents-for-General-Computing-Devices-Use,GUI-Agent, computer-use, GUI, web-agent, multimodal-large-language-model, large-language-model, survey, phone-use">
+  <meta name="description" content="InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection">
+  <meta name="keywords" content="OS-Agents, MLLM, MLLM-based, computing-devices-use, GUI-Agent, computer-use, GUI, web-agent, multimodal-large-language-model, large-language-model, phone-use">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use</title>
+  <title> InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection</title>
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
   <link rel="stylesheet" href="./static/css/bulma.min.css">
