@@ -53,7 +53,7 @@ layout: mydefault
     </div>
     <div class="navbar-menu">
       <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
-        <a class="navbar-item" href="https://github.com/OS-Agent-Survey">
+        <a class="navbar-item" href="https://github.com/Reallm-Labs/InfiGUIAgent">
           <span class="icon">
             <i class="fas fa-home"></i>
           </span>
@@ -137,41 +137,24 @@ layout: mydefault
                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
           	      <i class="fas fa-file-pdf" style="color:white"></i>
-
                     </span>
                     <span>Paper</span>
                   </a>
                 </span>
+		
                 <!-- Repo Link. -->
                 <span class="link-block">
-                  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey"
+                  <a href="https://github.com/Reallm-Labs/InfiGUIAgent"
                      class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
                       <i class="fab fa-github"></i>
                     </span>
                     <span>Repository</span>
                   </a>
-                  <!-- <a href="https://github.com/infi-coder/inficoder-eval-framework"
-                     class="external-link button is-normal is-rounded is-dark" target='_blank'>
-                    <span class="icon">
-                      <i class="fab fa-github"></i>
-                    </span>
-                    <span>Evaluation Repo</span>
-                  </a> -->
                 </span>
-                <!-- Twitter Link. -->
-                <!-- <span class="link-block">
-                  <a href="https://twitter.com/taoyds/status/1595086401309388801"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                      <i class="fab fa-twitter"></i>
-                    </span>
-                    <span>Twitter</span>
-                  </a>
-                </span> -->
 		
 		<!-- Zhihu Link. -->
-		<span class="link-block">
+		<!-- <span class="link-block">
 		  <a href="https://zhuanlan.zhihu.com/p/14143950360"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
 		    <span class="icon">
@@ -179,10 +162,10 @@ layout: mydefault
 		    </span>
 		    <span>Zhihu</span>
 		  </a>
-		</span>
+		</span> -->
 
 		<!-- openreview Link. -->
-		<span class="link-block">
+		<!-- <span class="link-block">
 		  <a href="https://openreview.net/forum?id=I7ODESoF6k"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
 		    <span class="icon">
@@ -190,10 +173,10 @@ layout: mydefault
 		    </span>
 		    <span>OpenReview</span>
 		  </a>
-		</span>
+		</span> -->
 
               <!-- Twitter Link. -->
-		<span class="link-block">
+		<!-- <span class="link-block">
 		  <a href="https://x.com/OSAgentSurvey/status/1876301310179660231"
 		     class="external-link button is-normal is-rounded is-dark" target='_blank'>
 		    <span class="icon">
@@ -201,7 +184,7 @@ layout: mydefault
 		    </span>
 		    <span>Twitter</span>
 		  </a>
-		</span>
+		</span> -->
   
               </div>
             </div>
