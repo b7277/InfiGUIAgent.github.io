@@ -247,7 +247,10 @@ layout: mydefault
      	    <p>
 	  GUI Agents are trained to master advanced reasoning skills: (1) Hierarchical reasoning, which involves task decomposition into strategic and tactical layers for efficient execution, and (2) Expectation-reflection reasoning, enabling self-correction and consistent decision-making through iterative reflection and learning from past actions. These skills are integrated into training datasets for native reasoning. The interaction follows a standard protocol using function calls and responses:
 	  </p>
-		<img style="max-width: 60%; height: auto; margin-bottom: 20px;" src="static/images/functioncall_format.png">
+   		<div style="text-align: center; margin-bottom: 20px;">
+    			<img style="max-width: 60%; height: auto;" src="static/images/functioncall_format.png">
+		</div>
+		<!-- <img style="max-width: 60%; height: auto; margin-bottom: 20px; " src="static/images/functioncall_format.png"> -->
           </div>
         </div>
       </div>
