@@ -231,7 +231,7 @@ layout: mydefault
     		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
   
             </p>
-	    <h3>Stage 1</h3>
+	    <h3>Stage 1: Training for Fundamental Abilities</h3>
      	    <p>
 	  We gathered data covering several GUI tasks from multiple sources to ensure a comprehensive capabilities improvement.The datasets can be categorized into five parts:
 	  </p>
@@ -243,6 +243,12 @@ layout: mydefault
 	     <li>Tool Usage</li>
 	    </ul>
 		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/dataset.png">
+  
+	    <h3>Stage 2: Training for Native Reasoning</h3>
+     	    <p>
+	  GUI Agents are trained to master advanced reasoning skills: (1) Hierarchical reasoning, which involves task decomposition into strategic and tactical layers for efficient execution, and (2) Expectation-reflection reasoning, enabling self-correction and consistent decision-making through iterative reflection and learning from past actions. These skills are integrated into training datasets for native reasoning. The interaction follows a standard protocol using function calls and responses:
+	  </p>
+		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/functioncall_format.pdf">
           </div>
         </div>
       </div>
@@ -253,16 +259,16 @@ layout: mydefault
 
 <section class="section" style="margin-top: -40px !important;">
     <div class="container is-max-desktop">
-      <!-- Stage1. -->
+      <!-- Result. -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3" id='stage1'>Stage 1</h2>
+          <h2 class="title is-3" id='result'>Result</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
-	    
-  		
-    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
-  
+	    Below provides the results of different models across three platforms (Mobile, Desk- top and Web) and two element types (Text and Icon) on ScreenSpot:
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/result1.png">
+  	    Below compares the success rates of InfiGUIAgent with open-source models on AndroidWorld:
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/result2.png">
             </p>
           </div>
         </div>
