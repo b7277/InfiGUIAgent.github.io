@@ -264,10 +264,10 @@ layout: mydefault
           <h2 class="title is-3" id='result'>Result</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
-	    Below provides the results of different models across three platforms (Mobile, Desk- top and Web) and two element types (Text and Icon) on ScreenSpot:
-    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/result1.png">
-  	    Below compares the success rates of InfiGUIAgent with open-source models on AndroidWorld:
-    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/result2.png">
+	    Below provides the results of different models across three platforms (Mobile, Desk- top and Web) and two element types (Text and Icon) on ScreenSpot:<br>
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/result1.png"><br>
+  	    Below compares the success rates of InfiGUIAgent with open-source models on AndroidWorld:<br>
+    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/result2.png"><br>
             </p>
           </div>
         </div>
