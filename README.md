@@ -1,6 +1,6 @@
-# OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
+# InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
 
-This is the repository that contains source code for the [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://os-agent-survey.github.io/) website.
+This is the repository that contains source code for the [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://InfiGUIAgent.github.io/) website.
 
 
 ```
