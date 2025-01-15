@@ -205,7 +205,7 @@ layout: mydefault
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
 
- 	xxx<br>
+ 	InfiGUIAgent is a Multimodal Large Language Model (MLLM)-based GUI agent designed for robust and efficient task automation on computing devices. Trained with a two-stage supervised fine-tuning pipeline, InfiGUIAgent excels in understanding and interacting with GUIs. The first stage focuses on foundational skills like GUI comprehension and instruction grounding, while the second stage cultivates advanced reasoning capabilities, including hierarchical reasoning and expectation-reflection, using synthesized data. This empowers InfiGUIAgent to perform complex multi-step GUI interactions, overcoming limitations of existing agents that struggle with multi-step reasoning and reliance on textual annotations.<br>
   		
     	     <!-- <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/survey_overview_2.jpg"> -->
   
