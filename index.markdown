@@ -105,23 +105,15 @@ layout: mydefault
 		</span>
           </div>
 	       <div class="is-size-5 publication-authors"> 
-	
 	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University </span>
-	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Fudan University </span>
-	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>OPPO AI Center </span><br>
-	       <span class="author-block"><sup style="color:#007bff;">4</sup>University of Chinese Academy of Sciences </span><br>
-	       <span class="author-block"><sup style="color:#ff0000;">5</sup>Institute of Automation, Chinese Academy of Sciences </span><br>
-	       <span class="author-block"><sup style="color:#a74cfe;">6</sup>The Chinese University of Hong Kong </span>       
-	       <span class="author-block"><sup style="color:#f58449;">7</sup>Tsinghua University </span>
-	       <span class="author-block"><sup style="color:#f1728c;">8</sup>01.AI </span><br>
-	       <span class="author-block"><sup style="color:#ac9bae;">9</sup>The Hong Kong Polytechnic University </span>
-	       <span class="author-block"><sup style="color:#300521;">10</sup>Shanghai Jiao Tong University </span><br><br>
-	       
-	        <span class="author-block"><sup style="color: #ff0000;">†</sup>Project Lead </span>
-       		<span class="author-block"><sup style="color: #d968c0;">‡</sup>Core Contributor </span>
-       		<span class="author-block"><sup style="color: #e7510e;">*</sup>Corresponding Author </span><br>
-	      <a href="#" style="text-decoration: none; color: blue;">{huxueyu, sy_zhang}@zju.edu.cn</a><br>
-
+	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Dalian University of Technology </span>
+	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>Reallm Labs </span><br>
+	       <span class="author-block"><sup style="color:#007bff;">4</sup>ByteDance Inc </span><br>
+	       <span class="author-block"><sup style="color:#ff0000;">5</sup>The Hong Kong Polytechnic University </span><br>
+	      
+	      <a href="#" style="text-decoration: none; color: blue;">sy_zhang@zju.edu.cn,</a><br>
+       	      <a href="#" style="text-decoration: none; color: blue;">xiaotian.han@bytedance.com,</a><br>
+              <a href="#" style="text-decoration: none; color: blue;">hongxia.yang@polyu.edu.hk</a><br>
 
               <br>
               <!-- <span class="author-block">
