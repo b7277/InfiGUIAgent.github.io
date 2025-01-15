@@ -98,7 +98,7 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Zishu Wei</a><sup style="color: #6fbf73;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Congkai Xie</a><sup style="color: #6fbf73;">3</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup>,
-   		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>,
+   		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>,<br>
 		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #ffac33;">1</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xiaotian Han</a><sup style="color: #ed4b82;">4</sup>,  
 		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #007bff;">5</sup>,
@@ -108,12 +108,12 @@ layout: mydefault
 	       <div class="is-size-5 publication-authors"> 
 	       <span class="author-block"><sup style="color:#6fbf73;">1</sup>Zhejiang University </span>
 	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Dalian University of Technology </span>
-	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>Reallm Labs </span><br>
-	       <span class="author-block"><sup style="color:#007bff;">4</sup>ByteDance Inc </span><br>
+	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>Reallm Labs </span>
+	       <span class="author-block"><sup style="color:#007bff;">4</sup>ByteDance Inc </span>
 	       <span class="author-block"><sup style="color:#ff0000;">5</sup>The Hong Kong Polytechnic University </span><br>
 	      
-	      <a href="#" style="text-decoration: none; color: blue;">sy_zhang@zju.edu.cn,</a><br>
-       	      <a href="#" style="text-decoration: none; color: blue;">xiaotian.han@bytedance.com,</a><br>
+	      <a href="#" style="text-decoration: none; color: blue;">sy_zhang@zju.edu.cn,</a>
+       	      <a href="#" style="text-decoration: none; color: blue;">xiaotian.han@bytedance.com,</a>
               <a href="#" style="text-decoration: none; color: blue;">hongxia.yang@polyu.edu.hk</a><br>
 
               <br>
