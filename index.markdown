@@ -227,10 +227,9 @@ layout: mydefault
           <div class="content has-text-justified" style="font-size: 1.1rem;">
             <p>
 	    InfiGUIAgent is trained in two stages. <b>Stage 1</b> cultivates fundamental abilities using diverse datasets covering GUI understanding (element recognition and layout comprehension), question answering, instruction grounding, general knowledge, and tool usage. <b>Stage 2</b> introduces native advanced reasoning, employed during both training and inference. This stage follows a cyclical process at each step, consisting of Reflection, Hierarchical Reasoning (strategic and tactical layers), Action, and Expectation. Each step receives the overall task, the history of previous screenshots and reasoning, and the current environment as input. Reflection assesses the previous action’s outcome against its expectation, while Expectation predicts the outcome of the current action for subsequent reflection.
-  		
+  	    </p>
     		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
-  
-            </p>
+
 	    <h3>Stage 1: Training for Fundamental Abilities</h3>
      	    <p>
 	  We gathered data covering several GUI tasks from multiple sources to ensure a comprehensive capabilities improvement.The datasets can be categorized into five parts:
@@ -280,46 +279,36 @@ layout: mydefault
 
   <section class="section" style="margin-top: -40px !important;">
     <div class="container is-max-desktop">
-      <!-- Training. -->
+      <!-- Cases. -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3" id='training'>Training</h2>
+          <h2 class="title is-3" id='cases'>Cases</h2>
           <div class="content has-text-justified" style="font-size: 1.1rem;">
-            <p>
-	    
-  		
-    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
-  
+            <h3>Stage 1:</h3>
+	    <p>
+	    We demonstrate the fundamental abilities trained in Stage 1 through three cases: 
             </p>
+	    <ul>
+	     <li>GUI Understanding<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_understanding1.pdf"></li>
+	     <li>Grounding<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_grounding1.pdf"></li>
+	     <li>Question Answering<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/case_QA1.pdf"></li>
+	    </ul>
+	    <h3>Stage 2:</h3>
+	    <p>
+	    Below we provide two representative cases to demonstrate the reasoning and interaction process of InfiGUIAgent: 
+            </p>
+	    <ul>
+	     <li>Reply to a Message<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_3.pdf"></li>
+	     <li>Creating a New Contact<br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_1.pdf"><br><img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/infiGUIAgentcases_2.pdf"></li>
+	    </ul>
           </div>
         </div>
       </div>
-      <!--/ Training. -->
+      <!--/ Cases. -->
     </div>
   </section>
 
 
-  <section class="section" style="margin-top: -40px !important;">
-    <div class="container is-max-desktop">
-      <!-- Training. -->
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          <h2 class="title is-3" id='training'>Training</h2>
-          <div class="content has-text-justified" style="font-size: 1.1rem;">
-            <p>
-	    
-  		
-    		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/method.pdf">
-  
-            </p>
-          </div>
-        </div>
-      </div>
-      <!--/ Training. -->
-    </div>
-  </section>
-
-  
   <section class="section">
     <div class="container is-max-desktop">
       <div class="columns is-centered has-text-centered">
@@ -327,7 +316,7 @@ layout: mydefault
           <h2 class="title is-3" id='contact'>Contact</h2>
           <div class="content has-text-justified">
             <p>
-              Please let us know if you find out a mistake or are interested in contributing by e-mail: <a href='mailto:huxueyu.zju@gmail.com' target='_blank' class='url'>huxueyu.zju@gmail.com</a>.
+              Please let us know if you find out a mistake or are interested in contributing by e-mail: <a href='mailto:liuyuhang@zju.edu.cn' target='_blank' class='url'>liuyuhang@zju.edu.cn</a>.
             </p>
           </div>
         </div>
@@ -347,15 +336,11 @@ layout: mydefault
           </p> 
           -->
           <p>If you find our work valuable for your research or applications, we would greatly appreciate a star ⭐ and a citation using the BibTeX entry provided below.</p> 
-          <pre><code>@article{202412.2294,
-	doi = {10.20944/preprints202412.2294.v1},
-	url = {https://doi.org/10.20944/preprints202412.2294.v1},
-	year = 2024,
-	month = {December},
-	publisher = {Preprints},
-	author = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},
-	title = {OS Agents: A Survey on MLLM-Based Agents for General Computing Devices Use},
-	journal = {Preprints}
+          <pre><code>@article{liu2025infiguiagent,
+  title={InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection},
+  author={Liu, Yuhang and Li, Pengxiang and Wei, Zishu and Xie, Congkai and Hu, Xueyu and Xu, Xinchen and Zhang, Shengyu and Han, Xiaotian and Yang, Hongxia and Wu, Fei},
+  journal={arXiv preprint arXiv:2501.04575},
+  year={2025}
 }</code></pre>
         </div>
       </div>
@@ -366,10 +351,10 @@ layout: mydefault
 <footer class="footer">
     <div class="container">
       <div class="content has-text-centered">
-        <a class="icon-link" href="https://os-agent-survey.github.io/paper.pdf">
+        <a class="icon-link" href="https://infiguiagent.github.io/paper.pdf">
           <i class="fas fa-file-pdf" style="color:white"></i>
         </a>
-        <a class="icon-link" href="https://github.com/OS-Agent-Survey/OS-Agent-Survey">
+        <a class="icon-link" href="https://github.com/Reallm-Labs/InfiGUIAgent">
           <i class="fab fa-github" style="color:white"></i>
         </a>
       </div>
