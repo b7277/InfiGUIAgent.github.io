@@ -99,10 +99,10 @@ layout: mydefault
 		<a href="#" style="text-decoration: none; color: blue;">Congkai Xie</a><sup style="color: #6fbf73;">3</sup>,
 		<a href="#" style="text-decoration: none; color: blue;">Xueyu Hu</a><sup style="color: #6fbf73;">1</sup>,
    		<a href="#" style="text-decoration: none; color: blue;">Xinchen Xu</a><sup style="color: #6fbf73;">1</sup>,<br>
-		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #ffac33;">1</sup>,
-		<a href="#" style="text-decoration: none; color: blue;">Xiaotian Han</a><sup style="color: #ed4b82;">4</sup>,  
-		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #007bff;">5</sup>,
-	     	<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a><sup style="color: #6fbf73;">1</sup>,<br>
+		<a href="#" style="text-decoration: none; color: blue;">Shengyu Zhang</a><sup style="color: #ffac33;">1</sup>,</sup><sup style="color: #e7510e;">*</sup>,
+		<a href="#" style="text-decoration: none; color: blue;">Xiaotian Han</a><sup style="color: #ed4b82;">4</sup>,</sup><sup style="color: #e7510e;">*</sup>,  
+		<a href="#" style="text-decoration: none; color: blue;">Hongxia Yang</a><sup style="color: #007bff;">5</sup>,</sup><sup style="color: #e7510e;">*</sup>,
+	     	<a href="#" style="text-decoration: none; color: blue;">Fei Wu</a><sup style="color: #6fbf73;">1</sup><br>
 		</span>
           </div>
 	       <div class="is-size-5 publication-authors"> 
@@ -110,12 +110,14 @@ layout: mydefault
 	       <span class="author-block"><sup style="color:#ffac33;">2</sup>Dalian University of Technology </span>
 	       <span class="author-block"><sup style="color:#ed4b82;">3</sup>Reallm Labs </span>
 	       <span class="author-block"><sup style="color:#007bff;">4</sup>ByteDance Inc </span>
-	       <span class="author-block"><sup style="color:#ff0000;">5</sup>The Hong Kong Polytechnic University </span><br>
-	      
+	       <span class="author-block"><sup style="color:#ff0000;">5</sup>The Hong Kong Polytechnic University </span><br><br>
+
+ 	       <span class="author-block"><sup style="color: #e7510e;">*</sup>Corresponding Author </span><br>
+
 	      <a href="#" style="text-decoration: none; color: blue;">sy_zhang@zju.edu.cn,</a>
        	      <a href="#" style="text-decoration: none; color: blue;">xiaotian.han@bytedance.com,</a>
               <a href="#" style="text-decoration: none; color: blue;">hongxia.yang@polyu.edu.hk</a><br>
-
+		
               <br>
               <!-- <span class="author-block">
                 Main Maintainer: <a href="mailto:xxxxx">xxxxx</a>
